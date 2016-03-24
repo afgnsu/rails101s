@@ -5,6 +5,13 @@
 可以對照Xdite的大作Rails 101(第三版)線上教程
 http://growth.xdite.net/courses/rails-101
 
+![Demo](https://github.com/afgnsu/rails101s/blob/master/DEMO.png)
+![Demo1](https://github.com/afgnsu/rails101s/blob/master/DEMO1.png)
+![Demo2](https://github.com/afgnsu/rails101s/blob/master/DEMO2.png)
+![Demo3](https://github.com/afgnsu/rails101s/blob/master/DEMO3.png)
+![Demo4](https://github.com/afgnsu/rails101s/blob/master/DEMO4.png)
+![Demo5](https://github.com/afgnsu/rails101s/blob/master/DEMO5.png)
+
 
 以下環境是用Ubuntu Linux來安裝Ruby on Rails：
 
@@ -49,6 +56,7 @@ rails s
 ##最後歡迎加入『桃園Ruby on Rails讀書會』=> https://www.facebook.com/groups/tyror/
 
 >Patrick Su (蘇介吾)
+
 >104/06/02 14:32p @ 桃園楊梅
 >http://fb.me/afgnsu
 >0921-380-997
